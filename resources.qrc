@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="image1">src/image1.jpg</file>
+        <file alias="image2">src/image2.jpg</file>
+        <file alias="image3">src/image3.jpg</file>
+        <file alias="image4">src/image4.jpeg</file>
+    </qresource>
+    <qresource prefix="/styles">
+        <file>styles.css</file>
+    </qresource>
+</RCC>

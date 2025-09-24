@@ -1,0 +1,64 @@
+#trainerButton {
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    color: #081012;
+    background-color: #4D8FC3;
+}
+
+#trainerButton:hover {
+    background-color: #3A75A1;
+    color: #ffffff; 
+}
+
+#trainerButton:pressed {
+    background-color: #2A4F73;
+    color: #ffffff;
+}
+
+#functionButtonAdd {
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    color: #081012;
+    background-color: #778D45;
+}
+
+#functionButtonAdd:hover {
+    background-color: #6C7B3C;
+    color: #ffffff;
+}
+
+#functionButtonAdd:pressed {
+    background-color: #4F5A2C;
+    color: #ffffff;
+}
+
+#functionButtonDel {
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    color: #081012;
+    background-color: #AA1803;
+}
+
+#functionButtonDel:hover {
+    background-color: #9A1502;
+    color: #ffffff;
+}
+
+#functionButtonDel:pressed {
+    background-color: #7E1201;
+    color: #ffffff;
+}
+
+#HeaderLabel {
+    font-size: 20px;
+}
+
+#buttonLessons {
+    padding: 15px; font-size: 16px; 
+    background-color: #4CAF50; 
+    color: white; 
+    border-radius: 5px;
+}
